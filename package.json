@@ -4,7 +4,7 @@
   "description": "Bot moderation",
   "main": "bot.js",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "bot.js": "^0.0.1",
     "discord-anti-spam": "^1.1.6",
     "discord.js": "^11.6.4",
