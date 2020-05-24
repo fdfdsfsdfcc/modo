@@ -1,0 +1,21 @@
+{
+	"token": "NzAzNjI4NDg2NjA2MTkyNzIx.XqRXLA.EAicdbV2GhAfXfk1pA_W8PW8TCY",
+	"prefix": "!",
+	"owner": "690100675371466781",
+	"mainguildID": "661200328204615691",
+	"errorLogChannel": "708371446229106799",
+	"banLogChannel": "708371448506613771",
+	"joinLogChannel": "708371448506613771",
+	"deleteLogChannel": "708371448506613771e",
+	"censoredWords": ["fdp", "ntm", "https://discord.gg/", "https://www.youtube.com/"],
+	"warnBuffer": "5", 
+	"maxBuffer": "10",
+	"interval": "1000",
+	"warningMessage": "Stop spamming or you will be banned.",
+	"banMessage": "has been banned for spamming.",
+	"maxDuplicatesWarning": "7",
+	"maxDuplicatesBan": "10",
+	"deleteMessagesAfterBanForPastDays": "7",
+	"exemptRoles": ["Président", "ADMINISTRATOR"],
+	"exemptUsers": ["user#0001", "user#0002"]
+}
